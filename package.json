@@ -11,19 +11,16 @@
     "theme",
     "template"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/portfolio-item",
+  "homepage": "https://github.com/JBurruss/Portfolio",
   "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-portfolio-item/issues",
-    "email": "feedback@startbootstrap.com"
-  },
+    "url": "https://github.com/JBurruss/Portfolio",
+      },
   "license": "MIT",
-  "author": "Start Bootstrap",
-  "contributors": [
-    "David Miller (http://davidmiller.io/)"
+  "author": "James Burruss"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-portfolio-item.git"
+    "url": "https://github.com/JBurruss/Portfolio"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
